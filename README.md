@@ -9,4 +9,4 @@ Assuming all counts are accurate, we might still underestimate the average perfo
 
 ![dashboard](https://github.com/lingjie00/exploring_Sg_MP_attendance_and_speaking_count/raw/master/output/dashboard.png)
 
-For full report, please read the notebook: A more detailed exploration of MPs' attendance and speaking count.ipynb
+For full report, please read the notebook: A more detailed exploration of MPs' attendance and speaking count.ipynb 
